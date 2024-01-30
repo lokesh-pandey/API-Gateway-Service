@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: API-Gateway-Service
+  annotations:
+    github.com/project-slug: lokesh-pandey/API-Gateway-Service
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
